@@ -394,3 +394,9 @@
         background-color: #4d4d4d;
     }
 }
+
+@media screen and (max-width: 360px) {
+    .download_bar_right {
+        font-size: 12px;
+    }
+}
